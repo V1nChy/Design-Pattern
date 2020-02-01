@@ -1,4 +1,4 @@
-# Design-Pattern
+# Design Pattern
 
 ## 创造类
 ![Image text](https://github.com/V1nChy/Design-Pattern/blob/master/Document/Creational-Patterns.jpg)
